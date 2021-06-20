@@ -13,12 +13,10 @@
 Currently learning JavaScript & C#
 <p align="center">
 
-<details>
-  <summary>Extra</summary>
-<details>
+
 <details>
   <summary>Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=erxk&show_icons=true&count_private=true&hide_title=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erxk">
 </details>
-</details>
+
