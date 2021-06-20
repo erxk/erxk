@@ -4,7 +4,7 @@
 <p align="center">
     7teen
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
+<img src="https://komarev.com/ghpvc/?username=erxk&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/398737241645776897.png" />
