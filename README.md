@@ -10,7 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-2/398737241645776897.png" />
 </p>
 <p align="center">
-Currently learning JavaScript & C#
+Currently learning C#
 <p align="center">
     
 ### Languages and Tools:
